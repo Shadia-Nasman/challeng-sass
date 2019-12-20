@@ -16,5 +16,6 @@ i have used "extend" to re-use the same CSS for the "success", "error" and "warn
 
 i have added 2 links called "blue" & "red".
 Clicking one of the 2 links  change the text to red/blue , s with file imports.
+<img src="https://github.com/Shadia-Nasman/challeng-sass/blob/master/Screenshot_2019-12-20%20Learning%20to%20work%20with%20SASS.png">
 
 
